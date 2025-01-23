@@ -4,11 +4,9 @@ I’m **Xingye Chen**, an enthusiastic Algorithm Engineer on a mission to revolu
 
 ### 🌟 Current Endeavors
 🚀 **Pushing Boundaries**: Crafting cutting-edge algorithms for Few-shot Learning, 3D Point Cloud Learning, and Visual Language Models.  
-🔬 **Researching at Huazhong University of Science and Technology**: Delving deep into the frontiers of AI technologies to uncover new possibilities.
 
 ### 🤝 Seeking Collaboration
 🌐 **Join Forces**: Let's team up on groundbreaking research projects in computer vision, deep learning, and AI-driven solutions.  
-🌍 **Real-World Impact**: I’m keen on innovative applications that harness AI for transformative real-world impact, especially in unsupervised learning and 3D shape analysis.
 
 ### 🏅 Honors & Accolades
 - 🥇 **Huawei ICT Competition Global Finals**: Global First Prize, 2022
